@@ -1,5 +1,5 @@
 import Link from 'next/link'
  
-export default function HomePage() {
+export default function Page() {
   return <Link href="/about">click to go on aboutpage</Link>
 }
